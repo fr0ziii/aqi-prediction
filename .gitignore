@@ -13,6 +13,8 @@ venv/
 # Data folders
 data/raw/
 data/processed/
+data/*
+models/*
 
 # Environment files
 *.env
