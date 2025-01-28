@@ -13,4 +13,5 @@ This project predicts the Air Quality Index (AQI) for the next 3 days using a se
    python3 -m venv venv
    source venv/bin/activate
 3. Install dependencies:
-   ```pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
